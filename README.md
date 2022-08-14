@@ -43,7 +43,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=dotf&theme=github_dark&hide_border=true" title="Loved Languages" **alt="Loved Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=dotfiles&theme=github_dark&hide_border=true" title="Loved Languages" **alt="Loved Languages"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=noicetask&theme=github_dark&hide_border=true" title="My Stats" **alt="My Stats"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=keystack.nvim&theme=github_dark&hide_border=true" title="My Stats" **alt="My Stats"/>
