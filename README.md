@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" title="Dancing Roboter" **alt="Dancing Roboter" width="40%" height="40%"/>
+  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" title="Dancing Computer" **alt="Dancing Computer" width="40%" height="40%"/>
 </div>
 
 # Tachchen und Moin Moin
@@ -43,13 +43,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=dotfiles&theme=github_dark&hide_border=true" title="Loved Languages" **alt="Loved Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=dotfiles&theme=github_dark&hide_border=true" title="Dotfiles" **alt="Dotfiles"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=noicetask&theme=github_dark&hide_border=true" title="My Stats" **alt="My Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=noicetask&theme=github_dark&hide_border=true" title="Noicetask" **alt="Noicetask"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=keystack.nvim&theme=github_dark&hide_border=true" title="My Stats" **alt="My Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=keystack.nvim&theme=github_dark&hide_border=true" title="keystack.nvim" **alt="keystack.nvim"/>
     </td>
   </tr>
 </table>
