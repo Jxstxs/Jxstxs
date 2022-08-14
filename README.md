@@ -48,6 +48,11 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=noicetask&theme=github_dark&hide_border=true" title="Noicetask" **alt="Noicetask"/>
     </td>
+    </tr>
+    <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=nvim-config&theme=github_dark&hide_border=true" title="keystack.nvim" **alt="keystack.nvim"/>
+    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=keystack.nvim&theme=github_dark&hide_border=true" title="keystack.nvim" **alt="keystack.nvim"/>
     </td>
