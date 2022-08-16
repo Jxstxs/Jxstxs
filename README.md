@@ -40,6 +40,8 @@
   </tr>
 </table>
 
+<!--
+
 ### 🏩 My Loved Projects
 <table>
   <tr>
@@ -59,5 +61,7 @@
     </td>
   </tr>
 </table>
+
+-->
 
 <img src="https://komarev.com/ghpvc/?username=Jxstxs&style=flat-square&color=blue" alt=""/>
