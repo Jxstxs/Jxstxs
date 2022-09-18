@@ -28,6 +28,8 @@
 </div>
 
 
+To learn more about me click [here](https://jxstxs.github.io/minimalist-portfolio/) (only in german).
+
 ### 🫀 My Languages and Hustle
 <table>
   <tr>
