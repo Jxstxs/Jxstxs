@@ -66,6 +66,6 @@ To learn more about me click [here](https://jxstxs.github.io/minimalist-portfoli
 
 -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Jxstxs/Jxstxs/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Jxstxs/Jxstxs/output/github-contribution-grid-snake.svg)
 
 <img src="https://komarev.com/ghpvc/?username=Jxstxs&style=flat-square&color=blue" alt=""/>
