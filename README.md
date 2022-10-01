@@ -45,6 +45,7 @@ To learn more about me click [here](https://jxstxs.github.io/minimalist-portfoli
 <!--
 
 ### 🏩 My Loved Projects
+idk
 <table>
   <tr>
     <td>
