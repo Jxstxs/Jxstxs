@@ -1,4 +1,3 @@
-<!-- Endlich hab ich mich auch dazu bringen koennen. Wyld -->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" title="Dancing Computer" **alt="Dancing Computer" width="40%" height="40%"/>
@@ -17,24 +16,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
+  <img src="https://github.com/nvim-neorg/neorg/blob/main/res/neorg.svg" title="Neorg" **alt="Neorg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" **alt="Lua" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="SQLite" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" **alt="Raspberry Pi" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" **alt="Firefox" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Gimp" **alt="Gimp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="Unity" width="40" height="40"/>
 </div>
 
-
-<!-- To learn more about me click [here](https://jxstxs.github.io/minimalist-portfolio/) (only in german). -->
-
-### 🫀 My Languages and Hustle
+### 🫀 My Hustle
 <table>
   <tr>
     <td>
@@ -45,31 +37,6 @@
     </td>
   </tr>
 </table>
-
-<!--
-
-### 🏩 My Loved Projects
-idk
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=dotfiles&theme=github_dark&hide_border=true" title="Dotfiles" **alt="Dotfiles"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=noicetask&theme=github_dark&hide_border=true" title="Noicetask" **alt="Noicetask"/>
-    </td>
-    </tr>
-    <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=nvim-config&theme=github_dark&hide_border=true" title="keystack.nvim" **alt="keystack.nvim"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jxstxs&repo=keystack.nvim&theme=github_dark&hide_border=true" title="keystack.nvim" **alt="keystack.nvim"/>
-    </td>
-  </tr>
-</table>
-
--->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jxstxs/Jxstxs/output/github-contribution-grid-snake-dark.svg)
 
